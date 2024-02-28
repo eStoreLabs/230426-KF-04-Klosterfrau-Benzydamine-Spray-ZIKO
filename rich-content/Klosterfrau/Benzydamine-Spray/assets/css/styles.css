@@ -1,16 +1,16 @@
 @font-face {
   font-family: "Montserrat Bold";
-  src: url("/rich-content/Klosterfrau/Neoangin-36/assets/fonts/Montserrat-Bold.ttf") format("truetype");
+  src: url("/rich-content/Klosterfrau/Benzydamine-Spray/assets/fonts/Montserrat-Bold.ttf") format("truetype");
   font-display: swap;
 }
 @font-face {
   font-family: "Montserrat Bold Italic";
-  src: url("/rich-content/Klosterfrau/Neoangin-36/assets/fonts/Montserrat-BoldItalic.ttf") format("truetype");
+  src: url("/rich-content/Klosterfrau/Benzydamine-Spray/assets/fonts/Montserrat-BoldItalic.ttf") format("truetype");
   font-display: swap;
 }
 @font-face {
   font-family: "Montserrat Regular";
-  src: url("/rich-content/Klosterfrau/Neoangin-36/assets/fonts/Montserrat-Regular.ttf") format("truetype");
+  src: url("/rich-content/Klosterfrau/Benzydamine-Spray/assets/fonts/Montserrat-Regular.ttf") format("truetype");
   font-display: swap;
 }
 
@@ -138,7 +138,7 @@
 }
 
 #es-neo.es-neo .es-benefits {
-  background-image: url("/rich-content/Klosterfrau/Neoangin-36/assets/img/red-bg.png");
+  background-image: url("/rich-content/Klosterfrau/Benzydamine-Spray/assets/img/red-bg.png");
   background-repeat: no-repeat;
   height: 2246px;
   background-position: top center;
@@ -253,7 +253,7 @@
 }
 
 #es-neo.es-neo .es-benefits__picture::after {
-  content: url("/rich-content/Klosterfrau/Neoangin-36/assets/img/arrow-5.png");
+  content: url("/rich-content/Klosterfrau/Benzydamine-Spray/assets/img/arrow-5.png");
   position: absolute;
   bottom: 55%;
   right: 5%;
@@ -262,7 +262,7 @@
 #es-neo.es-neo .es-benefits__list {
   margin: 0;
   padding: 0;
-  list-style: url("/rich-content/Klosterfrau/Neoangin-36/assets/img/thick.png") outside;
+  list-style: url("/rich-content/Klosterfrau/Benzydamine-Spray/assets/img/thick.png") outside;
   padding-left: 40px;
   max-width: 315px;
   margin-bottom: 48px;
@@ -313,7 +313,7 @@
 }
 
 #es-neo.es-neo .es-cross {
-  background-image: url("/rich-content/Klosterfrau/Neoangin-36/assets/img/red-bg-mobile.png");
+  background-image: url("/rich-content/Klosterfrau/Benzydamine-Spray/assets/img/red-bg-mobile.png");
   background-repeat: no-repeat;
   background-position: top center;
 }
@@ -470,7 +470,7 @@
     margin-left: 48px;
   }
   #es-neo.es-neo .es-benefits__title::after {
-    content: url("/rich-content/Klosterfrau/Neoangin-36/assets/img/arrow-1.png");
+    content: url("/rich-content/Klosterfrau/Benzydamine-Spray/assets/img/arrow-1.png");
     position: absolute;
     bottom: -33%;
     left: 38%;
@@ -494,7 +494,7 @@
     align-items: center;
   }
   #es-neo.es-neo .es-benefits__picture::after {
-    content: url(/rich-content/Klosterfrau/Neoangin-36/assets/img/arrow-2.png);
+    content: url(/rich-content/Klosterfrau/Benzydamine-Spray/assets/img/arrow-2.png);
     position: absolute;
     bottom: 62%;
     right: 62%;
@@ -562,7 +562,7 @@
     position: relative;
   }
   #es-neo.es-neo .es-info__content::after {
-    content: url("/rich-content/Klosterfrau/Neoangin-36/assets/img/arrow-4.png");
+    content: url("/rich-content/Klosterfrau/Benzydamine-Spray/assets/img/arrow-4.png");
     position: absolute;
     bottom: -30%;
     left: 55%;
@@ -588,19 +588,19 @@
     margin-top: 96px;
   }
   #es-neo.es-neo .es-cross__item--1::after {
-    content: url("/rich-content/Klosterfrau/Neoangin-36/assets/img/arrow-7.png");
+    content: url("/rich-content/Klosterfrau/Benzydamine-Spray/assets/img/arrow-7.png");
     position: absolute;
     top: -125px;
     left: 165px;
   }
   #es-neo.es-neo .es-cross__item--2::after {
-    content: url("/rich-content/Klosterfrau/Neoangin-36/assets/img/arrow-8.png");
+    content: url("/rich-content/Klosterfrau/Benzydamine-Spray/assets/img/arrow-8.png");
     position: absolute;
     top: -90px;
     left: -15px;
   }
   #es-neo.es-neo .es-cross__item--3::after {
-    content: url("/rich-content/Klosterfrau/Neoangin-36/assets/img/arrow-9.png");
+    content: url("/rich-content/Klosterfrau/Benzydamine-Spray/assets/img/arrow-9.png");
     position: absolute;
     top: -145px;
     left: -15px;
